@@ -1,0 +1,6 @@
+Add CSS to the app and use react or vue
+Get Ability Effects to display them on overview
+Use a database to store data in models to reduce calls to api.
+Display height and weight in there correct measurements 
+Add Search and filtering by specific data e.g height ,weight and pokemon type
+
