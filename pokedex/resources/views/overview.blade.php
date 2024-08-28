@@ -20,7 +20,10 @@
         @foreach ($pokemon["abilities"] as $ability)
         <div>
             <div>
-                {{$ability}}
+                {{$ability["name"]}}
+            </div>
+            <div>
+                {{$ability["effect"]}}
             </div>
         </div>
         @endforeach
